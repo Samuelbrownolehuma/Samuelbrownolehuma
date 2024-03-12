@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel, an <a href="https://www.linkedin.com/in/samuel-brown-oleh-uma-14567521b/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Samuel, an <a href="https://www.linkedin.com/in/samuel-brown-oleh-uma-14567521b/">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
